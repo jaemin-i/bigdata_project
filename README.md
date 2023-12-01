@@ -1,3 +1,4 @@
 # bigdata_project
 [빅데이터 분석 프로젝트 - 가상화폐와 GPU의 연관성](https://github.com/jaemin-i/bigdata_project/blob/main/bigdata_project.ipynb)
 > 코인별 캔들스틱 그래프
+> [비트코인](https://github.com/jaemin-i/bigdata_project/blob/main/%EC%82%B0%EC%B6%9C%EB%AC%BC/btc_candlestick_chart.html)
